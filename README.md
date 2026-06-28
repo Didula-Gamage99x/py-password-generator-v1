@@ -1,6 +1,6 @@
 # 🔐 Strong Password Generator
 
-A simple and secure **Strong Password Generator** built with Python. This command-line application generates random passwords with customizable options, helping users create strong and secure passwords for their accounts.
+A simple and secure **Strong Password Generator** built with Python. This command line application generates random passwords with customizable options, helping users create strong and secure passwords for their accounts.
 
 ## ✨ Features
 
@@ -9,7 +9,7 @@ A simple and secure **Strong Password Generator** built with Python. This comman
 * Include uppercase letters
 * Include numbers (digits)
 * Include special characters
-* Lightweight and easy-to-use command-line interface
+* Lightweight and easy to use command line interface
 
 ## 🛠 Technologies Used
 
