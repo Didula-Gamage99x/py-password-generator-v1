@@ -1,36 +1,67 @@
-🔐 Strong Password Generator
-A simple yet powerful Strong Password Generator built with Python. This script allows users to generate secure passwords with customizable options, including uppercase letters, digits, and special characters.
+# 🔐 Strong Password Generator
 
-🚀 Features
--Generate strong and random passwords of customizable length
--Option to include uppercase letters, numbers, and special characters
--Ensures security by creating unpredictable passwords
--Easy to use command line interface
+A simple and secure **Strong Password Generator** built with Python. This command-line application generates random passwords with customizable options, helping users create strong and secure passwords for their accounts.
 
-🛠 Usage
-Clone this repository:
+## ✨ Features
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/Strong-Password-Generator.git
+* Generate strong and random passwords
+* Customize password length
+* Include uppercase letters
+* Include numbers (digits)
+* Include special characters
+* Lightweight and easy-to-use command-line interface
+
+## 🛠 Technologies Used
+
+* Python 3
+
+## 🚀 Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Didula-Gamage99x/Strong-Password-Generator.git
+```
+
+2. Navigate to the project directory:
+
+```bash
 cd Strong-Password-Generator
+```
 
-Run the script:
+3. Run the application:
 
-bash
-Copy
-Edit
+```bash
 python SPG.py
-Follow the prompts to generate your secure password.
+```
 
-📌 Example
-pgsql
-Copy
-Edit
+## 💻 Example Output
+
+```text
 Strong Password Generator
+
 Enter password length: 16
 Include uppercase letters? (y/n): y
 Include digits? (y/n): y
 Include special characters? (y/n): y
-Generated Password: 9f$L1@x!QpZo^3Km
+
+Generated Password:
+9f$L1@x!QpZo^3Km
+```
+
+## 🚀 Future Improvements
+
+* Password strength indicator
+* Copy password to clipboard
+* Save generated passwords securely
+* Graphical User Interface (GUI)
+* Password history
+* QR code sharing
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+**Didula Gamage**
