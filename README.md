@@ -49,19 +49,3 @@ Generated Password:
 9f$L1@x!QpZo^3Km
 ```
 
-## 🚀 Future Improvements
-
-* Password strength indicator
-* Copy password to clipboard
-* Save generated passwords securely
-* Graphical User Interface (GUI)
-* Password history
-* QR code sharing
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-
-**Didula Gamage**
