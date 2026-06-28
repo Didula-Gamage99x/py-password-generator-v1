@@ -1,6 +1,6 @@
-# 🔐 Strong Password Generator
+# 🔐 py-password-generator
 
-A simple and secure **Strong Password Generator** built with Python. This command line application generates random passwords with customizable options, helping users create strong and secure passwords for their accounts.
+A simple and secure **py-password-generator** built with Python. This command line application generates random passwords with customizable options, helping users create strong and secure passwords for their accounts.
 
 ## ✨ Features
 
@@ -20,13 +20,13 @@ A simple and secure **Strong Password Generator** built with Python. This comman
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Didula-Gamage99x/Strong-Password-Generator.git
+git clone https://github.com/Didula-Gamage99x/py-password-generator.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Strong-Password-Generator
+cd py-password-generator
 ```
 
 3. Run the application:
@@ -38,7 +38,7 @@ python SPG.py
 ## 💻 Example Output
 
 ```text
-Strong Password Generator
+py-password-generator
 
 Enter password length: 16
 Include uppercase letters? (y/n): y
